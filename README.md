@@ -25,7 +25,8 @@
 
 ## Projects
 ### NYPD Arrests Deep Dive (_August 2024_)
-[Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing) |
+[Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing) 
+
 [Dashboard](https://prod-useast-b.online.tableau.com/t/datapatternsandrepresentationsspring2024/views/NYPDArrestsDashboard/Dashboard1)
 
 Finding key drivers on NYC arrests by discovering noticable increase of arrests by borough, offense type, ethnicity, and age groups. We synthesized all of our findings into a **Tableau** dashboard, so we can better inform the NYPD how to better equip themselves to reduce crime. Our recommendations involve a collective effort in improving officer training and gain better understanding of NYC regulations. 
