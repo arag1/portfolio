@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Docker, Tableau
+#### Technical Skills: Python, SQL, AWS, Docker, Tableau, Airflow
 
 ## Education
 - M.S., Data Science	| Johns Hopkins University (_August 2024_)	 			        		
@@ -25,11 +25,22 @@
 
 ## Projects
 ### NYPD Arrests Deep Dive (_August 2024_)
-[Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing) 
-
+[Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing) |
 [Dashboard](https://prod-useast-b.online.tableau.com/t/datapatternsandrepresentationsspring2024/views/NYPDArrestsDashboard/Dashboard1)
 
 Finding key drivers on NYC arrests by discovering noticable increase of arrests by borough, offense type, ethnicity, and age groups. We synthesized all of our findings into a **Tableau** dashboard, so we can better inform the NYPD how to better equip themselves to reduce crime. Our recommendations involve a collective effort in improving officer training and gain better understanding of NYC regulations. 
+
+### End-to-End Data Pipeline for State Economic Metrics (_August 2024_)
+[ProjectZip](https://drive.google.com/file/d/1LhRFiPbAZLURcl7AU4CpKCHou0HSRxYF/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1Uj8wresM191eU_76C5pcWprG90o5tnTr/view?usp=sharing)
+
+The purpose of this data pipeline project is to streamline the integration, processing, and analysis of economic datasets from various sources like the USDA Economic Research Service and Kaggle. The project aims to deliver a self -contained data pipeline that can be deployed effortlessly using **Docker**. It automates data ingestion, transforms datasets with Airflow, and stores results in **SQL**. The documentation covers dataset descriptions, normalization into 11 tables, and the generation of pandas profiling reports for comprehensive data exploration. The architecture includes stages for data loading, transformation, and storage, with **Airflow** managing ETL tasks and PostgreSQL serving as the database backend.
+
+### Crypto Coin Prediction using Neural Networks (_May 2024_)
+[Dataset](https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv) | [ProjectZip](https://drive.google.com/file/d/1sNN--vGXtgjKwL6jPsQBAvSiKlCBXa6d/view?usp=sharing) | [Presentation](https://docs.google.com/presentation/d/1P0VGm3m4luplThVDgFFC4JXrKGQ8wsWX/edit?usp=sharing&ouid=107641025095273989713&rtpof=true&sd=true)
+
+The goal of the project is to predict daily Bitcoin prices leveraging deep learning models learned in the Johns Hopkins Neural Network course. Research was performed into 7 different types of datasets: weekly, hourly, and daily changes. The dataset overall contains 234 Crypto Coins/Altcoins with historical Open, High, Low, Close, and Volume (OHLCV) prices traded in the Binance Exchange. 
+Our project group chose D1 as a group since there includes more data for the daily scale and can provide high capabilities for prediction. The networks used were RNN, LSTM and GRU to compare model performance and accuracy. 
+
 
 
 ### Credit Card and Fico Score Exploration (_April 2023_)
