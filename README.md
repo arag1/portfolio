@@ -24,14 +24,14 @@
 - Developed and implemented efficient SVM, Random Forest, Clustering, linear regression, and decision tree Algorithms for resolution of unique optimization problems
 
 ## Projects
-### NYPD Arrests Deep Dive (_August 2024_)**
-[Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=drive_link)
+### NYPD Arrests Deep Dive (_August 2024_)
+[Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing)
 [Dashboard](https://prod-useast-b.online.tableau.com/t/datapatternsandrepresentationsspring2024/views/NYPDArrestsDashboard/Dashboard1)
 
 Finding key drivers on NYC arrests by discovering noticable increase of arrests by borough, offense type, ethnicity, and age groups. We synthesized all of our findings into a **Tableau** dashboard, so we can better inform the NYPD how to better equip themselves to reduce crime. Our recommendations involve a collective effort in improving officer training and gain better understanding of NYC regulations. 
 
 
-### Credit Card and Fico Score Exploration (_April 2023_)**
+### Credit Card and Fico Score Exploration (_April 2023_)
 [Deliverable](https://drive.google.com/file/d/1sADmVuHuSJw_7KzKdRz-C0D_lLVpEXWP/view?usp=drive_link)
 
 Used **Python** to explore patterns between FICO scores and credit cards. From the analysis portion, Visa and MasterCard are the top two companies that authorize the highest amount of credit limit for their clients. Most middle class workers owning less than 3 credit cards have an average FICO score of 800+. Addditional steps that would be taken to further improve this project are looking at other variables, such as ethnicity, location, and education to further gain clarrification on if there is a correlation between the number of credit cards and FICO score.
