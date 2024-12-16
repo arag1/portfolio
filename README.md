@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Docker, MATLAB
+#### Technical Skills: Python, SQL, AWS, Docker, Tableau
 
 ## Education
 - M.S., Data Science	| Johns Hopkins University (_August 2024_)	 			        		
@@ -24,19 +24,18 @@
 - Developed and implemented efficient SVM, Random Forest, Clustering, linear regression, and decision tree Algorithms for resolution of unique optimization problems
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### NYPD Arrests Deep Dive (_August 2024_) **
+[Presentation](https://www.mdpi.com/1424-8220/22/8/3048)
+[Dashboard](https://prod-useast-b.online.tableau.com/t/datapatternsandrepresentationsspring2024/views/NYPDArrestsDashboard/Dashboard1)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Finding key drivers on NYC arrests by discovering noticable increase of arrests by borough, offense type, ethnicity, and age groups. We synthesized all of our findings into a **Tableau** dashboard, so we can better inform the NYPD how to better equip themselves to reduce crime. Our recommendations involve a collective effort in improving officer training and gain better understanding of NYC regulations. 
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Credit Card and Fico Score Exploration (_April 2023_)**
+[Deliverable]([[https://www.mdpi.com/1424-8220/22/11/4240](https://drive.google.com/file/d/1sADmVuHuSJw_7KzKdRz-C0D_lLVpEXWP/view?usp=drive_link)](https://drive.google.com/file/d/1sADmVuHuSJw_7KzKdRz-C0D_lLVpEXWP/view?usp=drive_link))
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Python** to explore patterns between FICO scores and credit cards. From the analysis portion, Visa and MasterCard are the top two companies that authorize the highest amount of credit limit for their clients. Most middle class workers owning less than 3 credit cards have an average FICO score of 800+. Addditional steps that would be taken to further improve this project are looking at other variables, such as ethnicity, location, and education to further gain clarrification on if there is a correlation between the number of credit cards and FICO score.
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 
 
