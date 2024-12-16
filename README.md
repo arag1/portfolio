@@ -42,6 +42,10 @@ The goal of the project is to predict daily Bitcoin prices leveraging deep learn
 Our project group chose D1 as a group since there includes more data for the daily scale and can provide high capabilities for prediction. The networks used were RNN, LSTM and GRU to compare model performance and accuracy. 
 
 
+### Modeling Stock Market Behavior (_May 2024_)
+[ProjectCode]([https://www.kaggle.com/datasets/olegshpagin/crypto-coins-prices-ohlcv](https://github.com/arag1/Stock-Price-Markov-Model))
+
+The goal of the project is to build a model of how stock prices vary year over year. In order to do this, our team built a Markov chain using a stationary distribution with historical price information. Then, we compare the distribution of the Markov chain with the distribution of the test set of stock prices. This method was developed in a previous study in 2011.  The data used was the closing prices of each Dow Jones Industrial average member from 2014-2019. This generates 1007 points per symbol. Overall, there are 30 symbols within Dow Jones. This was used as a reference to produce the stationary distribution of the Markov chain. We used this stationary distribution to project the stocks for 2023-2024.
 
 ### Credit Card and Fico Score Exploration (_April 2023_)
 [Deliverable](https://drive.google.com/file/d/1sADmVuHuSJw_7KzKdRz-C0D_lLVpEXWP/view?usp=drive_link)
