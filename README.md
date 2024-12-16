@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Portfolio
 
 #### Technical Skills: Python, SQL, AWS, Docker, Tableau, Airflow
 
