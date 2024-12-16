@@ -7,7 +7,7 @@
 - B.S., Industrial Engineering Operations Research | University of California Berkeley (_May 2022_)
 
 ## Work Experience
-**Associate Product Manager @ Visa (_August 2022 - June 2023)**
+**Associate Product Manager @ Visa (_August 2022 - June 2023_)**
 - Created new Visa Direct Highspot learning repository for internal employees and increased employee satisfaction for accessing Highspot resources by 80%
 - Performed market landscape research for Visa Consulting Analytics sustainability clients and improved client sentiment with Visa Product Design team by 80%
 
