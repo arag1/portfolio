@@ -29,6 +29,8 @@
 
 Finding key drivers on NYC arrests by discovering noticable increase of arrests by borough, offense type, ethnicity, and age groups. We synthesized all of our findings into a **Tableau** dashboard, so we can better inform the NYPD how to better equip themselves to reduce crime. Our recommendations involve a collective effort in improving officer training and gain better understanding of NYC regulations. 
 
+![Dashboard](/assets:img/screenshot.png)
+
 ### End-to-End Data Pipeline for State Economic Metrics (_August 2024_)
 [Project Zip](https://drive.google.com/file/d/1LhRFiPbAZLURcl7AU4CpKCHou0HSRxYF/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1Uj8wresM191eU_76C5pcWprG90o5tnTr/view?usp=sharing)
 
