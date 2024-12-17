@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-#### Technical Skills: Python, R, SQL, AWS, Docker, Tableau, Airflow
+#### Technical Skills: Python, SQL, AWS, Docker, Tableau, Airflow
 
 ## Education
 - M.S., Data Science	| Johns Hopkins University (_August 2024_)	 			        		
