@@ -25,7 +25,7 @@
 
 ## Projects
 ### Predicting NYC UHI Index (_March 2025_)
-[Source Code]([https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing](https://drive.google.com/file/d/1DgrDZFYBL6a9KiexoESCSOiYg3g7396o/view?usp=sharing))
+[Code](https://drive.google.com/file/d/1DgrDZFYBL6a9KiexoESCSOiYg3g7396o/view?usp=sharing)
 
 Predicting UHI Index using Sentinel 2 and Landsat 8 satellite data bands using Planetary Computer API. All work was done using Python and Pandas using Random Forest Regression for prediction. Experimenting with different training test splits to improve test and validation accuracy from 70/30 split to 90/10 split. 
 
