@@ -24,6 +24,11 @@
 - Developed and implemented efficient SVM, Random Forest, Clustering, linear regression, and decision tree Algorithms for resolution of unique optimization problems
 
 ## Projects
+### Predicting NYC UHI Index (_March 2025_)
+[Presentation]([https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing](https://drive.google.com/file/d/1DgrDZFYBL6a9KiexoESCSOiYg3g7396o/view?usp=drive_link))
+
+Predicting UHI Index using Sentinel 2 and Landsat 8 satellite data bands using Planetary Computer API. All work was done using Python and Pandas using Random Forest Regression for prediction. Experimenting with different training test splits to improve test and validation accuracy from 70/30 split to 90/10 split. 
+
 ### NYPD Arrests Deep Dive (_August 2024_)
 [Presentation](https://drive.google.com/file/d/1NDojpCKFzszMLg_TfjAVSuB4iKruAN0T/view?usp=sharing)
 
