@@ -3,6 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Docker, Tableau, Airflow
 
 ## Education
+- M.S., Finance	| UCSD (_December 2026_)	 		
 - M.S., Data Science	| Johns Hopkins University (_August 2024_)	 			        		
 - B.S., Industrial Engineering Operations Research | University of California Berkeley (_May 2022_)
 
