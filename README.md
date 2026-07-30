@@ -38,6 +38,11 @@ compensation accounting frameworks.
 - Developed and implemented efficient SVM, Random Forest, Clustering, linear regression, and decision tree Algorithms for resolution of unique optimization problems
 
 ## Projects
+### Mortgage Repayment Risk in California (_May 2026_)
+[Project Writeup](https://docs.google.com/document/d/1TbOuzP01cru02dQEFKeFOvp5K6P06uQCtzjjbUUGpZw/edit?usp=sharing)
+
+This project integrates 2016 California mortgage origination data from Freddie Mac and Fannie Mae (roughly 683,000 loans) with satellite-derived wildfire observations from the MODIS Active Fire Product, linking the two through census tract and ZIP-code boundaries via a tract-to-ZIP crosswalk. Using Google BigQuery for data processing and Google Earth Engine for wildfire detection, the analysis constructs a mortgage-stress indicator, stressed_at_origination, based on risk markers such as high-cost lending, cash-out refinancing, non-owner occupancy, and manufactured housing, then tests whether ZIP-level wildfire exposure (fires_2016) is associated with this stress measure using logistic regression. The model, which achieved an ROC-AUC of approximately 0.61, found only a modest relationship between wildfire activity and mortgage stress at origination, but it demonstrates that environmental exposure can be systematically incorporated into mortgage-risk analysis alongside traditional borrower and loan characteristics. Rather than a predictive tool, the project serves as a proof of concept for climate finance research, showing that publicly available satellite and geographic data can be integrated with financial records to explore, though not establish causally, the connection between wildfire risk and housing finance stress in California.
+
 ### Predicting NYC UHI Index (_March 2025_)
 [Project Code](https://drive.google.com/file/d/1DgrDZFYBL6a9KiexoESCSOiYg3g7396o/view?usp=sharing)
 
