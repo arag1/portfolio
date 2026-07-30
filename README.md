@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Finance/Data Science Portfolio
 
-#### Technical Skills: Python, SQL, AWS, Docker, Tableau, Airflow
+#### Technical Skills: Python, SQL, AWS, Docker, Tableau, Airflow, Google BigQuery, Google Earth Engine, Geospatial Analysis (GIS/TIGER), Statistical Modeling (Logistic Regression), Quantitative Factor Modeling (Compustat/CRSP)
 
 ## Education
 - M.S., Finance	| UCSD (_December 2026_)	 		
