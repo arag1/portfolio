@@ -8,6 +8,19 @@
 - B.S., Industrial Engineering Operations Research | University of California Berkeley (_May 2022_)
 
 ## Work Experience
+**Finance and Accounting Extern @ Equity Methods LLC (_March 2026_)**
+- Accepted into the competitive Spring 2026 Externship at Equity Methods, a nationally recognized consulting firm specializing in stock-based compensation (SBC) valuation and financial reporting.
+- Modeled forecasting and budgeting scenarios for stock-based compensation expenses on behalf of a Fortune 100 client company, applying ASC 718 equity
+compensation accounting frameworks.
+- Gained exposure to equity-based compensation accounting. Experience with technology-driven analytics and consulting workflows in a two-day intensive.
+- Networked with senior consultants and partners across Equity Methods’ nationally recognized practice.
+  
+**Data Scientist @ HelloSky AI (_June 2025 - August 2025_)**
+- Improved business insights, increasing customer engagement through enhanced usage metrics in reporting dashboards.
+- Improved decision support quality and organized three-tier information workflow by optimizing data management processes.
+- Enhanced entire company Streamlit application to seamlessly navigate API endpoints usage.
+- Helped create closing pitches for converting trial to yearly subscription customers.
+
 **Associate Product Manager @ Visa (_August 2022 - June 2023_)**
 - Created new Visa Direct Highspot learning repository for internal employees and increased employee satisfaction for accessing Highspot resources by 80%
 - Performed market landscape research for Visa Consulting Analytics sustainability clients and improved client sentiment with Visa Product Design team by 80%
