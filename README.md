@@ -48,6 +48,10 @@ This project tests the Quality Minus Junk (QMJ) factor, built on the three-pilla
 
 This project integrates 2016 California mortgage origination data from Freddie Mac and Fannie Mae (roughly 683,000 loans) with satellite-derived wildfire observations from the MODIS Active Fire Product, linking the two through census tract and ZIP-code boundaries via a tract-to-ZIP crosswalk. Using Google BigQuery for data processing and Google Earth Engine for wildfire detection, the analysis constructs a mortgage-stress indicator, stressed_at_origination, based on risk markers such as high-cost lending, cash-out refinancing, non-owner occupancy, and manufactured housing, then tests whether ZIP-level wildfire exposure (fires_2016) is associated with this stress measure using logistic regression. The model, which achieved an ROC-AUC of approximately 0.61, found only a modest relationship between wildfire activity and mortgage stress at origination, but it demonstrates that environmental exposure can be systematically incorporated into mortgage-risk analysis alongside traditional borrower and loan characteristics. Rather than a predictive tool, the project serves as a proof of concept for climate finance research, showing that publicly available satellite and geographic data can be integrated with financial records to explore, though not establish causally, the connection between wildfire risk and housing finance stress in California.
 
+### Guest Moderator, Analytics Careers Panel (StepStone) (_May 2026_)
+
+Moderated a panel titled "Insights from Analytics Careers," featuring two StepStone alumni from the 2025 MQF cohort who shared their experiences in financial and investment analytics. Guided the discussion through career paths, day-to-day responsibilities, and key skills for success in the field, and facilitated Q&A to keep the conversation engaging for MQF and MSBA students in attendance. The session concluded with an open networking segment connecting students directly with the panelists.
+
 ### Predicting NYC UHI Index (_March 2025_)
 [Project Code](https://drive.google.com/file/d/1DgrDZFYBL6a9KiexoESCSOiYg3g7396o/view?usp=sharing)
 
